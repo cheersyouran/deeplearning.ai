@@ -1,0 +1,8 @@
+/.idea/
+**/__pycache__
+**/*.mp4
+**/*.srt
+**/*.txt
+**/*.html
+**/*.pptx
+**/*.pdf
