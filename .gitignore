@@ -7,3 +7,6 @@
 **/*.pdf
 **/.ipynb_checkpoints
 **/datasets
+**/*.h5
+**/weights/*
+**/*.mat
