@@ -3,6 +3,7 @@
 **/*.mp4
 **/*.srt
 **/*.txt
-**/*.html
 **/*.pptx
 **/*.pdf
+**/.ipynb_checkpoints
+**/datasets
