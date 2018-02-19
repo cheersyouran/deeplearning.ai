@@ -1,5 +1,5 @@
-##How to download coursera jupyter notebook and all reference files?
-###如何下载coursera jupyter notebook以及所有文件？
+### How to download coursera jupyter notebook and all reference files?
+### 如何下载coursera jupyter notebook以及所有文件？
 
 1. Open a online jupyter notebook, and then click `File > Open ...`
 2. Launch new terminal instance: `New > Terminal`
