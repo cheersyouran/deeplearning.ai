@@ -10,3 +10,5 @@
 **/*.h5
 **/weights/*
 **/*.mat
+**/*.npy
+**/data
